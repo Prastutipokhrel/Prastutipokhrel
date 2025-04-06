@@ -1,7 +1,11 @@
 ## 👋 Hi there, I'm Prastuti Pokhrel!
 
-I'm a passionate **backend developer**, **data enthusiast**, and part-time ✨chaotic creative✨ who believes technology should empower and include.  
-Currently pursuing my **Master’s in Computer Science** at **Lamar University**.
+- 💻 Passionate <strong>backend developer</strong>  
+- 📊 Curious <strong>data enthusiast</strong>  
+- 🎨 Part-time <em>chaotic creative</em> who believes tech should empower and include  
+- 🎓 Currently pursuing my <strong>Master’s in Computer Science</strong> at <em>Lamar University</em>  
+
+
 
 ---
 ## 🌐 Socials:
@@ -25,8 +29,6 @@ Currently pursuing my **Master’s in Computer Science** at **Lamar University**
 - 🧳 If I’m not coding, I’m probably planning my next food trip  
 - 🧠 Deep thinker, hopeless romantic, and sometimes funny (I try)  
 - 🧃 Catch me daydreaming while sipping iced chai
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 
