@@ -4,31 +4,6 @@ I'm a passionate **backend developer**, **data enthusiast**, and part-time ✨ch
 Currently pursuing my **Master’s in Computer Science** at **Lamar University**.
 
 ---
-
-### 🛠️ Tech I vibe with:
-- 🐍 Python, Django, Django REST Framework
-- ⚛️ React (Started with it in my early codinf days , but hoping back to it , a lot to learn , but loving it!)
-- 🐘 PostgreSQL, InfluxDB
-- 🚀 CI/CD (learning and breaking things — the good kind!)
----
-
-### 🌱 Currently:
-- Building tools to support **sustainable living**
-- Learning **React + APIs** and loving every bug fix
-- Trying to make tech more **human and helpful**
-
----
-
-### 💬 Fun Facts About Me:
-- 🥟 Momo is my love language  
-- 📺 *Modern Family* and *Friends* reruns = my comfort shows  
-- 🧳 If I’m not coding, I’m probably planning my next food trip  
-- 🧠 Deep thinker, hopeless romantic, and sometimes funny (I try)  
-- 🧃 Catch me daydreaming while sipping iced chai
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_prastuti9) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://prastuti.medium.com/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prasttutipokhrel@gmail.com) 
 
@@ -42,5 +17,17 @@ Currently pursuing my **Master’s in Computer Science** at **Lamar University**
 ---
 [![](https://visitcount.itsvg.in/api?id=Prastutipokhrel&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+### 💬 Fun Facts About Me:
+- 🥟 Momo is my love language  
+- 📺 *Modern Family* and *Friends* reruns = my comfort shows  
+- 🧳 If I’m not coding, I’m probably planning my next food trip  
+- 🧠 Deep thinker, hopeless romantic, and sometimes funny (I try)  
+- 🧃 Catch me daydreaming while sipping iced chai
+# 💫 About Me:
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+
+
+
 
