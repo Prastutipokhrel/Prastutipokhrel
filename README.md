@@ -3,7 +3,7 @@
 - 💻 Passionate <strong>backend developer</strong>  
 - 📊 Curious <strong>data enthusiast</strong>  
 - 🎨 Part-time <em>chaotic creative</em> who believes tech should empower and include  
-- 🎓 Currently pursuing my <strong>Master’s in Computer Science</strong> at <em>Lamar University</em>  
+- 🎓 Recently Completed my <strong>Master’s in Computer Science</strong> at <em>Lamar University</em>  
 
 
 
