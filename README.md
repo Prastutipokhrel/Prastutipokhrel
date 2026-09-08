@@ -1,9 +1,12 @@
 ## 👋 Hi there, I'm Prastuti Pokhrel!
 
-- 💻 Passionate <strong>backend developer</strong>  
-- 📊 Curious <strong>data enthusiast</strong>  
-- 🎨 Part-time <em>chaotic creative</em> who believes tech should empower and include  
-- 🎓 Recently Completed my <strong>Master’s in Computer Science</strong> at <em>Lamar University</em>  
+- 💼 Working as Data Analyst in Title III office , Lamar University.
+- 🌱 Interested in data-driven decision making, student success initiatives, and institutional research.
+- 💻 Passionate <strong>backend developer.</strong>  
+- 📊 Curious <strong>data enthusiast</strong> . 
+- 🎨 Part-time <em>chaotic creative</em> who believes tech should empower and include.  
+- 🎓 Completed my <strong>Master’s in Computer Science</strong> at <em>Lamar University</em>
+
 
 
 
@@ -21,14 +24,15 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Prastutipokhrel&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 💡 What Drives Me
 
+I believe data should do more than generate reports. The most meaningful analytics tell a story, uncover opportunities, and empower institutions to make informed decisions that positively impact students' academic journeys.
 
 ### 💬 Fun Facts About Me:
-- 🥟 Momo is my love language  
+- 🥟 Momo is my love language.  
 - 📺 *Modern Family* and *Friends* reruns = my comfort shows  
-- 🧳 If I’m not coding, I’m probably planning my next food trip  
-- 🧠 Deep thinker, hopeless romantic, and sometimes funny (I try)  
-- 🧃 Catch me daydreaming while sipping iced chai
+- 🧳 If I’m not coding, I’m probably planning my next food trip.  
+- 🧃 Catch me daydreaming while sipping iced matcha.
 
 
 
